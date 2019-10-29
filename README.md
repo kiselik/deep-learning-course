@@ -15,7 +15,7 @@ python get_training_data.py
 neural_network.py implemented NeuralNetwork  class and related functionality. 
 Run example:
 ```
-python neural_network.py train-images/ 30 0.1 300 10 60
+python3 neural_network.py train-images/ 30 0.1 300 10 60
 ```
 Inputs:
  - [data folder] folder with training data (in .gz format)
